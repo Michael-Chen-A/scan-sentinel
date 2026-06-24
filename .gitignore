@@ -1,5 +1,4 @@
 _rt/
 __pycache__/
 *.pyc
-scan_results/
 .DS_Store
